@@ -6,7 +6,7 @@ main:
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2022.
     pdf: ./assets/files/Du20223D.pdf
     bibtex: ./assets/files/Du20223D.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Du20223D.png
 
   - title: "DelTact: A Vision-based Tactile Sensor Using a Dense Color Pattern"
     authors: Guanlan Zhang, <strong>Yipai Du</strong>, Hongyu Yu, Michael Yu Wang
@@ -14,7 +14,7 @@ main:
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2022.
     pdf: ./assets/files/Zhang2022DelTact.pdf
     bibtex: ./assets/files/Zhang2022DelTact.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Zhang2022DelTact.png
 
   - title: "SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination"
     authors: Qi Wang*, <strong>Yipai Du*</strong>, Michael Yu Wang
@@ -22,7 +22,7 @@ main:
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2022.
     pdf: ./assets/files/Wang2022SpecTac.pdf
     bibtex: ./assets/files/Wang2022SpecTac.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Wang2022SpecTac.png
 
   - title: A Tactile Sensing Foot for Single Robot Leg Stabilization
     authors: Guanlan Zhang, <strong>Yipai Du</strong>, Yazhan Zhang, Michael Yu Wang
@@ -30,7 +30,7 @@ main:
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
     pdf: ./assets/files/Zhang2021Tactile.pdf
     bibtex: ./assets/files/Zhang2021Tactile.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Zhang2021Tactile.png
 
   - title: High-resolution 3-dimensional Contact Deformation Tracking for FingerVision Sensor with Dense Random Color Pattern
     authors: <strong>Yipai Du</strong>, Guanlan Zhang, Yazhan Zhang, Michael Yu Wang
@@ -39,7 +39,7 @@ main:
     pdf: ./assets/files/Du2021High.pdf
     code: https://github.com/duyipai/Contact-Modelling-with-Gaussian-Density
     bibtex: ./assets/files/Du2021High.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Du2021High.png
 
   - title: VTacArm. A Vision-based Tactile Sensing Augmented Robotic Arm with Application to Human-robot Interaction
     authors: Yazhan Zhang, Guanlan Zhang, <strong>Yipai Du</strong>, Michael Yu Wang
@@ -47,7 +47,7 @@ main:
     conference:  IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2020.
     pdf: ./assets/files/Zhang2020VTacArm.pdf
     bibtex: ./assets/files/Zhang2020VTacArm.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Zhang2020VTacArm.png
 
   - title: Automated Underwater Pipeline Damage Detection Using Neural Nets
     authors: Jiajun Shi, Wenjie Yin, <strong>Yipai Du</strong>, John Folkesson
@@ -56,7 +56,7 @@ main:
     pdf: ./assets/files/Shi2019Automated.pdf
     code: https://github.com/duyipai/Underwater_pipe_crack_detection
     bibtex: ./assets/files/Shi2019Automated.txt
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Shi2019Automated.png
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

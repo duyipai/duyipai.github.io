@@ -17,7 +17,7 @@ main:
     image: ./assets/img/Zhang2022DelTact.png
 
   - title: "SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination"
-    authors: Qi Wang*, <strong>Yipai Du*</strong>, Michael Yu Wang
+    authors: Qi Wang*, <strong>Yipai Du</strong>*, Michael Yu Wang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2022.
     pdf: ./assets/files/Wang2022SpecTac.pdf
@@ -50,7 +50,7 @@ main:
     image: ./assets/img/Zhang2020VTacArm.png
 
   - title: Automated Underwater Pipeline Damage Detection Using Neural Nets
-    authors: Jiajun Shi, Wenjie Yin, <strong>Yipai Du</strong>, John Folkesson
+    authors: Jiajun Shi*, Wenjie Yin*, <strong>Yipai Du</strong>*, John Folkesson
     conference_short: ICRA
     conference: ICRA Workshop on Underwater Robotics Perception, 2019.
     pdf: ./assets/files/Shi2019Automated.pdf

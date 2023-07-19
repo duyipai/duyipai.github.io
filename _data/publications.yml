@@ -5,7 +5,7 @@ main:
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2022.
     pdf: ./assets/files/Du20223D.pdf
-    bibtex: ./assets/files/Du20223D
+    bibtex: ./assets/files/Du20223D.txt
     image: ./assets/img/teaser_example_2.png
 
   - title: "DelTact: A Vision-based Tactile Sensor Using a Dense Color Pattern"
@@ -37,6 +37,7 @@ main:
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2021.
     pdf: ./assets/files/Du2021High.pdf
+    code: https://github.com/duyipai/Contact-Modelling-with-Gaussian-Density
     bibtex: ./assets/files/Du2021High.txt
     image: ./assets/img/teaser_example_2.png
 
@@ -53,6 +54,7 @@ main:
     conference_short: ICRA
     conference: ICRA Workshop on Underwater Robotics Perception, 2019.
     pdf: ./assets/files/Shi2019Automated.pdf
+    code: https://github.com/duyipai/Underwater_pipe_crack_detection
     bibtex: ./assets/files/Shi2019Automated.txt
     image: ./assets/img/teaser_example_2.png
 

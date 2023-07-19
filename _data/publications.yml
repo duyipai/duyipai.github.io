@@ -8,7 +8,7 @@ main:
     bibtex: ./assets/files/Du20223D
     image: ./assets/img/teaser_example_2.png
 
-  - title: DelTact: A Vision-based Tactile Sensor Using a Dense Color Pattern
+  - title: "DelTact: A Vision-based Tactile Sensor Using a Dense Color Pattern"
     authors: Guanlan Zhang, <strong>Yipai Du</strong>, Hongyu Yu, Michael Yu Wang
     conference_short: RA-L
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2022.
@@ -16,7 +16,7 @@ main:
     bibtex: ./assets/files/Zhang2022DelTact.txt
     image: ./assets/img/teaser_example_2.png
 
-  - title: SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination
+  - title: "SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination"
     authors: Qi Wang*, <strong>Yipai Du*</strong>, Michael Yu Wang
     conference_short: ICRA
     conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2022.

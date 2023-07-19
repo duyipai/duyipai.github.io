@@ -1,22 +1,68 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: 3D Contact Point Cloud Reconstruction from Vision-based Tactile Flow
+    authors: <strong>Yipai Du</strong>, Guanlan Zhang, Michael Yu Wang
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2022.
+    pdf: ./assets/files/Du20223D.pdf
+    bibtex: ./assets/files/Du20223D
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: DelTact: A Vision-based Tactile Sensor Using a Dense Color Pattern
+    authors: Guanlan Zhang, <strong>Yipai Du</strong>, Hongyu Yu, Michael Yu Wang
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2022.
+    pdf: ./assets/files/Zhang2022DelTact.pdf
+    bibtex: ./assets/files/Zhang2022DelTact.txt
+    image: ./assets/img/teaser_example_2.png
+
+  - title: SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination
+    authors: Qi Wang*, <strong>Yipai Du*</strong>, Michael Yu Wang
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2022.
+    pdf: ./assets/files/Wang2022SpecTac.pdf
+    bibtex: ./assets/files/Wang2022SpecTac.txt
+    image: ./assets/img/teaser_example_2.png
+
+  - title: A Tactile Sensing Foot for Single Robot Leg Stabilization
+    authors: Guanlan Zhang, <strong>Yipai Du</strong>, Yazhan Zhang, Michael Yu Wang
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021.
+    pdf: ./assets/files/Zhang2021Tactile.pdf
+    bibtex: ./assets/files/Zhang2021Tactile.txt
+    image: ./assets/img/teaser_example_2.png
+
+  - title: High-resolution 3-dimensional Contact Deformation Tracking for FingerVision Sensor with Dense Random Color Pattern
+    authors: <strong>Yipai Du</strong>, Guanlan Zhang, Yazhan Zhang, Michael Yu Wang
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2021.
+    pdf: ./assets/files/Du2021High.pdf
+    bibtex: ./assets/files/Du2021High.txt
+    image: ./assets/img/teaser_example_2.png
+
+  - title: VTacArm. A Vision-based Tactile Sensing Augmented Robotic Arm with Application to Human-robot Interaction
+    authors: Yazhan Zhang, Guanlan Zhang, <strong>Yipai Du</strong>, Michael Yu Wang
+    conference_short: CASE
+    conference:  IEEE International Conference on Automation Science and Engineering <strong>(CASE)</strong>, 2020.
+    pdf: ./assets/files/Zhang2020VTacArm.pdf
+    bibtex: ./assets/files/Zhang2020VTacArm.txt
+    image: ./assets/img/teaser_example_2.png
+
+  - title: Automated Underwater Pipeline Damage Detection Using Neural Nets
+    authors: Jiajun Shi, Wenjie Yin, <strong>Yipai Du</strong>, John Folkesson
+    conference_short: ICRA
+    conference: ICRA Workshop on Underwater Robotics Perception, 2019.
+    pdf: ./assets/files/Shi2019Automated.pdf
+    bibtex: ./assets/files/Shi2019Automated.txt
+    image: ./assets/img/teaser_example_2.png
+
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png

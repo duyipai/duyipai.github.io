@@ -1,0 +1,8 @@
+@inproceedings{wang2022spectac,
+  title={SpecTac: A Visual-Tactile Dual-Modality Sensor Using UV Illumination},
+  author={Wang, Qi and Du, Yipai and Wang, Michael Yu},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={10844--10850},
+  year={2022},
+  organization={IEEE}
+}

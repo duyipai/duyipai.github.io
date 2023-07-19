@@ -1,0 +1,8 @@
+@inproceedings{zhang2020vtacarm,
+  title={VTacArm. A vision-based tactile sensing augmented robotic arm with application to human-robot interaction},
+  author={Zhang, Yazhan and Zhang, Guanlan and Du, Yipai and Wang, Michael Yu},
+  booktitle={2020 IEEE 16th International Conference on Automation Science and Engineering (CASE)},
+  pages={35--42},
+  year={2020},
+  organization={IEEE}
+}

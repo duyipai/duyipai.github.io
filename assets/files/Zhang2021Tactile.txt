@@ -1,0 +1,8 @@
+@inproceedings{zhang2021tactile,
+  title={A tactile sensing foot for single robot leg stabilization},
+  author={Zhang, Guanlan and Du, Yipai and Zhang, Yazhan and Wang, Michael Yu},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={14076--14082},
+  year={2021},
+  organization={IEEE}
+}

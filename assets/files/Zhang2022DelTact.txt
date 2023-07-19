@@ -1,0 +1,10 @@
+@article{zhang2022deltact,
+  title={DelTact: A vision-based tactile sensor using a dense color pattern},
+  author={Zhang, Guanlan and Du, Yipai and Yu, Hongyu and Wang, Michael Yu},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={4},
+  pages={10778--10785},
+  year={2022},
+  publisher={IEEE}
+}

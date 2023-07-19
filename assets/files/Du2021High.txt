@@ -1,0 +1,10 @@
+@article{du2021high,
+  title={High-resolution 3-dimensional contact deformation tracking for FingerVision sensor with dense random color pattern},
+  author={Du, Yipai and Zhang, Guanlan and Zhang, Yazhan and Wang, Michael Yu},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={2},
+  pages={2147--2154},
+  year={2021},
+  publisher={IEEE}
+}

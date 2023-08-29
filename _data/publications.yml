@@ -5,6 +5,7 @@ main:
     conference_short: AURO
     conference: Autonomous Robots <strong>(AURO)</strong>, (under review).
     pdf: ./assets/files/Du2023Stick.pdf
+    code: https://github.com/duyipai/Allegro_Digit/tree/manipulation
     bibtex: ./assets/files/Du2023Stick.txt
     image: ./assets/img/Du2023Stick.png
   

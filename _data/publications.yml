@@ -1,9 +1,9 @@
 main:
 
-  - title: "Stick Roller: A Case Study on Efficiently Learning Precise Tactile Dynamics for In-hand Manipulation"
+  - title: "Stick Roller: Precise In-hand Stick Manipulation with a Sample-Efficient Tactile Model"
     authors: <strong>Yipai Du</strong>, Michael Yu Wang, Wenzhao Lian, Yu She
-    conference_short: AURO
-    conference: Autonomous Robots <strong>(AURO)</strong>, (under review).
+    conference_short: RA-L
+    conference: EEE Robotics and Automation Letters <strong>(RA-L)</strong>, (under review).
     pdf: ./assets/files/Du2023Stick.pdf
     code: https://github.com/duyipai/Allegro_Digit/tree/manipulation
     bibtex: ./assets/files/Du2023Stick.txt

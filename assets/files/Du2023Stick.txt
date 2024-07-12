@@ -1,5 +1,0 @@
-@article{du2023stick,
-  title={Stick Roller: A Case Study on Efficiently Learning Precise Tactile Dynamics for In-hand Manipulation},
-  author={Du, Yipai and Wang, Michael Yu and Lian, Wenzhao and She, Yu},
-  year={2023}
-}

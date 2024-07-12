@@ -1,0 +1,7 @@
+@inproceedings{du2024stick,
+  title={Stick Roller: Precise In-hand Stick Rolling with a Sample-Efficient Tactile Model},
+  author={Du, Yipai and Zhou, Pokuang and Wang, Michael Yu and Lian, Wenzhao and She, Yu},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2024},
+  organization={IEEE}
+}

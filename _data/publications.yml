@@ -1,13 +1,13 @@
 main:
 
-  - title: "Stick Roller: Precise In-hand Stick Manipulation with a Sample-Efficient Tactile Model"
-    authors: <strong>Yipai Du</strong>, Michael Yu Wang, Wenzhao Lian, Yu She
-    conference_short: RA-L
-    conference: EEE Robotics and Automation Letters <strong>(RA-L)</strong>, (under review).
-    pdf: ./assets/files/Du2023Stick.pdf
+  - title: "Stick Roller: Precise In-hand Stick Rolling with a Sample-Efficient Tactile Model"
+    authors: <strong>Yipai Du</strong>, Pokuang Zhou, Michael Yu Wang, Wenzhao Lian, Yu She
+    conference_short: IROS
+    conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.
+    pdf: ./assets/files/Du2024Stick.pdf
     code: https://github.com/duyipai/Allegro_Digit/tree/manipulation
-    bibtex: ./assets/files/Du2023Stick.txt
-    image: ./assets/img/Du2023Stick.png
+    bibtex: ./assets/files/Du2024Stick.txt
+    image: ./assets/img/Du2024Stick.png
   
   - title: 3D Contact Point Cloud Reconstruction from Vision-based Tactile Flow
     authors: <strong>Yipai Du</strong>, Guanlan Zhang, Michael Yu Wang

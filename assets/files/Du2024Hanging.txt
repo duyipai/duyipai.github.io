@@ -1,0 +1,7 @@
+@inproceedings{du2024hanging,
+  title={Hanging a T-Shirt: A Step towards Deformable Peg-in-Hole Manipulation with Multimodal Tactile Feedback},
+  author={Yipai Du, Shoaib Aslam, Michael Yu Wang, Bertram E. Shi},
+  booktitle={2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)},
+  year={2024},
+  organization={IEEE}
+}

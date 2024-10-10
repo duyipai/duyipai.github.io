@@ -13,6 +13,7 @@ I obtained my PhD degree in robotics from the Hong Kong University of Science an
 - **Robot Learning:** Learning for tactile perception and dynamic control
 
 ## News
+- **[Oct. 2024]** Our paper about T-shirt hanging from tactile feedback is accepted to ROBIO 2024. See you in Bangkok!
 - **[July 2024]** Our paper about in-hand tactile manipulation is accepted to IROS 2024. See you in Abu Dhabi!
 - **[July 2023]** [Gsmini](https://github.com/duyipai/gsmini) is released for better interface with the GelSight Mini tactile sensor. Please try it out!
 - **[Apr. 2023]** I win the 2nd place in the Three Minute Thesis Competition of HKUST. See [news](https://3mt.hkust.edu.hk/news/2023-hkust-3mtr-competition) and [report](https://ri.hkust.edu.hk/news/congratulations-yipai-duphd-student-electronic-and-computer-engineering-winning-second-place).

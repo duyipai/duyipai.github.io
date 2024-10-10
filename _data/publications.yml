@@ -1,5 +1,14 @@
 main:
 
+  - title: "Hanging a T-Shirt: A Step towards Deformable Peg-in-Hole Manipulation with Multimodal Tactile Feedback"
+    authors: <strong>Yipai Du</strong>, Shoaib Aslam, Michael Yu Wang, Bertram E. Shi
+    conference_short: ROBIO
+    conference: IEEE International Conference on Robotics and Biomimetics <strong>(ROBIO)</strong>, 2024.
+    pdf: ./assets/files/Du2024Hanging.pdf
+    video: https://youtu.be/gvNa6HQnww4
+    bibtex: ./assets/files/Du2024Hanging.txt
+    image: ./assets/img/Du2024Hanging.png
+
   - title: "Stick Roller: Precise In-hand Stick Rolling with a Sample-Efficient Tactile Model"
     authors: <strong>Yipai Du</strong>, Pokuang Zhou, Michael Yu Wang, Wenzhao Lian, Yu She
     conference_short: IROS
